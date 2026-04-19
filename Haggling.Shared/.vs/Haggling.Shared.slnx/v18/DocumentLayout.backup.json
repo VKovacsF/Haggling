@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\School lessons\\2IHIF\\POSE_C#_2IHIF\\haggling techteam\\Haggling\\Haggling.Shared\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{06D1B01D-1368-43D9-B9FB-DC43070E3CDD}|Haggling.Shared\\Haggling.Shared.csproj|c:\\school lessons\\2ihif\\pose_c#_2ihif\\haggling techteam\\haggling\\haggling.shared\\haggling.shared\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{06D1B01D-1368-43D9-B9FB-DC43070E3CDD}|Haggling.Shared\\Haggling.Shared.csproj|solutionrelative:haggling.shared\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9913F8E7-4290-A22A-4264-35F8FE3C811B}|Haggling.Shared\\Haggling.Shared.csproj|c:\\school lessons\\2ihif\\pose_c#_2ihif\\haggling techteam\\haggling\\haggling.shared\\haggling.shared\\broking\\negotiation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9913F8E7-4290-A22A-4264-35F8FE3C811B}|Haggling.Shared\\Haggling.Shared.csproj|solutionrelative:haggling.shared\\broking\\negotiation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\School lessons\\2IHIF\\POSE_C#_2IHIF\\haggling techteam\\Haggling\\Haggling.Shared\\Haggling.Shared\\Class1.cs",
-              "RelativeDocumentMoniker": "Haggling.Shared\\Class1.cs",
-              "ToolTip": "C:\\School lessons\\2IHIF\\POSE_C#_2IHIF\\haggling techteam\\Haggling\\Haggling.Shared\\Haggling.Shared\\Class1.cs",
-              "RelativeToolTip": "Haggling.Shared\\Class1.cs",
+              "Title": "Negotiation.cs",
+              "DocumentMoniker": "C:\\School lessons\\2IHIF\\POSE_C#_2IHIF\\haggling techteam\\Haggling\\Haggling.Shared\\Haggling.Shared\\Broking\\Negotiation.cs",
+              "RelativeDocumentMoniker": "Haggling.Shared\\Broking\\Negotiation.cs",
+              "ToolTip": "C:\\School lessons\\2IHIF\\POSE_C#_2IHIF\\haggling techteam\\Haggling\\Haggling.Shared\\Haggling.Shared\\Broking\\Negotiation.cs",
+              "RelativeToolTip": "Haggling.Shared\\Broking\\Negotiation.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-19T15:02:31.022Z",
+              "WhenOpened": "2026-04-19T15:35:27.824Z",
               "EditorCaption": ""
             }
           ]

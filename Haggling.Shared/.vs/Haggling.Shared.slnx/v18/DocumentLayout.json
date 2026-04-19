@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "C:\\School lessons\\2IHIF\\POSE_C#_2IHIF\\haggling techteam\\Haggling\\Haggling.Shared\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{06D1B01D-1368-43D9-B9FB-DC43070E3CDD}|Haggling.Shared\\Haggling.Shared.csproj|c:\\school lessons\\2ihif\\pose_c#_2ihif\\haggling techteam\\haggling\\haggling.shared\\haggling.shared\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{06D1B01D-1368-43D9-B9FB-DC43070E3CDD}|Haggling.Shared\\Haggling.Shared.csproj|solutionrelative:haggling.shared\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{06D1B01D-1368-43D9-B9FB-DC43070E3CDD}|Haggling.Shared\\Haggling.Shared.csproj|c:\\school lessons\\2ihif\\pose_c#_2ihif\\haggling techteam\\haggling\\haggling.shared\\haggling.shared\\negotiation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{06D1B01D-1368-43D9-B9FB-DC43070E3CDD}|Haggling.Shared\\Haggling.Shared.csproj|solutionrelative:haggling.shared\\negotiation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9913F8E7-4290-A22A-4264-35F8FE3C811B}|Haggling.Shared\\Haggling.Shared.csproj|c:\\school lessons\\2ihif\\pose_c#_2ihif\\haggling techteam\\haggling\\haggling.shared\\haggling.shared\\broking\\negotiation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9913F8E7-4290-A22A-4264-35F8FE3C811B}|Haggling.Shared\\Haggling.Shared.csproj|solutionrelative:haggling.shared\\broking\\negotiation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +14,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Negotiation.cs",
-              "DocumentMoniker": "C:\\School lessons\\2IHIF\\POSE_C#_2IHIF\\haggling techteam\\Haggling\\Haggling.Shared\\Haggling.Shared\\Negotiation.cs",
-              "RelativeDocumentMoniker": "Haggling.Shared\\Negotiation.cs",
-              "ToolTip": "C:\\School lessons\\2IHIF\\POSE_C#_2IHIF\\haggling techteam\\Haggling\\Haggling.Shared\\Haggling.Shared\\Negotiation.cs",
-              "RelativeToolTip": "Haggling.Shared\\Negotiation.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-19T15:05:40.374Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\School lessons\\2IHIF\\POSE_C#_2IHIF\\haggling techteam\\Haggling\\Haggling.Shared\\Haggling.Shared\\Product.cs",
-              "RelativeDocumentMoniker": "Haggling.Shared\\Product.cs",
-              "ToolTip": "C:\\School lessons\\2IHIF\\POSE_C#_2IHIF\\haggling techteam\\Haggling\\Haggling.Shared\\Haggling.Shared\\Product.cs",
-              "RelativeToolTip": "Haggling.Shared\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAFAAAAAAAAAA==",
+              "Title": "Negotiation.cs",
+              "DocumentMoniker": "C:\\School lessons\\2IHIF\\POSE_C#_2IHIF\\haggling techteam\\Haggling\\Haggling.Shared\\Haggling.Shared\\Broking\\Negotiation.cs",
+              "RelativeDocumentMoniker": "Haggling.Shared\\Broking\\Negotiation.cs",
+              "ToolTip": "C:\\School lessons\\2IHIF\\POSE_C#_2IHIF\\haggling techteam\\Haggling\\Haggling.Shared\\Haggling.Shared\\Broking\\Negotiation.cs",
+              "RelativeToolTip": "Haggling.Shared\\Broking\\Negotiation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-19T15:03:38.941Z",
+              "WhenOpened": "2026-04-19T15:35:27.824Z",
               "EditorCaption": ""
             }
           ]
