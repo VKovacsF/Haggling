@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\School lessons\\2IHIF\\POSE_C#_2IHIF\\haggling techteam\\Haggling\\HagglingShared\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9EAF64DE-1168-3104-8229-C9C8A3C3EB78}|HagglingShared\\HagglingShared.csproj|c:\\school lessons\\2ihif\\pose_c#_2ihif\\haggling techteam\\haggling\\hagglingshared\\hagglingshared\\interfaces\\interface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EAF64DE-1168-3104-8229-C9C8A3C3EB78}|HagglingShared\\HagglingShared.csproj|solutionrelative:hagglingshared\\interfaces\\interface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EAF64DE-1168-3104-8229-C9C8A3C3EB78}|HagglingShared\\HagglingShared.csproj|c:\\school lessons\\2ihif\\pose_c#_2ihif\\haggling techteam\\haggling\\hagglingshared\\hagglingshared\\broking\\negotiation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EAF64DE-1168-3104-8229-C9C8A3C3EB78}|HagglingShared\\HagglingShared.csproj|solutionrelative:hagglingshared\\broking\\negotiation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EAF64DE-1168-3104-8229-C9C8A3C3EB78}|HagglingShared\\HagglingShared.csproj|c:\\school lessons\\2ihif\\pose_c#_2ihif\\haggling techteam\\haggling\\hagglingshared\\hagglingshared\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EAF64DE-1168-3104-8229-C9C8A3C3EB78}|HagglingShared\\HagglingShared.csproj|solutionrelative:hagglingshared\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EAF64DE-1168-3104-8229-C9C8A3C3EB78}|HagglingShared\\HagglingShared.csproj|c:\\school lessons\\2ihif\\pose_c#_2ihif\\haggling techteam\\haggling\\hagglingshared\\hagglingshared\\models\\haggle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EAF64DE-1168-3104-8229-C9C8A3C3EB78}|HagglingShared\\HagglingShared.csproj|solutionrelative:hagglingshared\\models\\haggle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Interface.cs",
+              "DocumentMoniker": "C:\\School lessons\\2IHIF\\POSE_C#_2IHIF\\haggling techteam\\Haggling\\HagglingShared\\HagglingShared\\Interfaces\\Interface.cs",
+              "RelativeDocumentMoniker": "HagglingShared\\Interfaces\\Interface.cs",
+              "ToolTip": "C:\\School lessons\\2IHIF\\POSE_C#_2IHIF\\haggling techteam\\Haggling\\HagglingShared\\HagglingShared\\Interfaces\\Interface.cs",
+              "RelativeToolTip": "HagglingShared\\Interfaces\\Interface.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T09:48:02.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\School lessons\\2IHIF\\POSE_C#_2IHIF\\haggling techteam\\Haggling\\HagglingShared\\HagglingShared\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "HagglingShared\\Models\\Product.cs",
+              "ToolTip": "C:\\School lessons\\2IHIF\\POSE_C#_2IHIF\\haggling techteam\\Haggling\\HagglingShared\\HagglingShared\\Models\\Product.cs",
+              "RelativeToolTip": "HagglingShared\\Models\\Product.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T09:46:42.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Haggle.cs",
+              "DocumentMoniker": "C:\\School lessons\\2IHIF\\POSE_C#_2IHIF\\haggling techteam\\Haggling\\HagglingShared\\HagglingShared\\Models\\Haggle.cs",
+              "RelativeDocumentMoniker": "HagglingShared\\Models\\Haggle.cs",
+              "ToolTip": "C:\\School lessons\\2IHIF\\POSE_C#_2IHIF\\haggling techteam\\Haggling\\HagglingShared\\HagglingShared\\Models\\Haggle.cs*",
+              "RelativeToolTip": "HagglingShared\\Models\\Haggle.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T09:46:00.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Negotiation.cs",
+              "DocumentMoniker": "C:\\School lessons\\2IHIF\\POSE_C#_2IHIF\\haggling techteam\\Haggling\\HagglingShared\\HagglingShared\\Broking\\Negotiation.cs",
+              "RelativeDocumentMoniker": "HagglingShared\\Broking\\Negotiation.cs",
+              "ToolTip": "C:\\School lessons\\2IHIF\\POSE_C#_2IHIF\\haggling techteam\\Haggling\\HagglingShared\\HagglingShared\\Broking\\Negotiation.cs",
+              "RelativeToolTip": "HagglingShared\\Broking\\Negotiation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T09:44:34.814Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+C:\School lessons\2IHIF\POSE_C#_2IHIF\haggling techteam\Haggling\HagglingShared\HagglingShared\bin\Debug\net10.0\HagglingShared.deps.json
+C:\School lessons\2IHIF\POSE_C#_2IHIF\haggling techteam\Haggling\HagglingShared\HagglingShared\bin\Debug\net10.0\HagglingShared.dll
+C:\School lessons\2IHIF\POSE_C#_2IHIF\haggling techteam\Haggling\HagglingShared\HagglingShared\bin\Debug\net10.0\HagglingShared.pdb
+C:\School lessons\2IHIF\POSE_C#_2IHIF\haggling techteam\Haggling\HagglingShared\HagglingShared\obj\Debug\net10.0\HagglingShared.GeneratedMSBuildEditorConfig.editorconfig
+C:\School lessons\2IHIF\POSE_C#_2IHIF\haggling techteam\Haggling\HagglingShared\HagglingShared\obj\Debug\net10.0\HagglingShared.AssemblyInfoInputs.cache
+C:\School lessons\2IHIF\POSE_C#_2IHIF\haggling techteam\Haggling\HagglingShared\HagglingShared\obj\Debug\net10.0\HagglingShared.AssemblyInfo.cs
+C:\School lessons\2IHIF\POSE_C#_2IHIF\haggling techteam\Haggling\HagglingShared\HagglingShared\obj\Debug\net10.0\HagglingShared.csproj.CoreCompileInputs.cache
+C:\School lessons\2IHIF\POSE_C#_2IHIF\haggling techteam\Haggling\HagglingShared\HagglingShared\obj\Debug\net10.0\HagglingShared.sourcelink.json
+C:\School lessons\2IHIF\POSE_C#_2IHIF\haggling techteam\Haggling\HagglingShared\HagglingShared\obj\Debug\net10.0\HagglingShared.dll
+C:\School lessons\2IHIF\POSE_C#_2IHIF\haggling techteam\Haggling\HagglingShared\HagglingShared\obj\Debug\net10.0\refint\HagglingShared.dll
+C:\School lessons\2IHIF\POSE_C#_2IHIF\haggling techteam\Haggling\HagglingShared\HagglingShared\obj\Debug\net10.0\HagglingShared.pdb
+C:\School lessons\2IHIF\POSE_C#_2IHIF\haggling techteam\Haggling\HagglingShared\HagglingShared\obj\Debug\net10.0\ref\HagglingShared.dll
