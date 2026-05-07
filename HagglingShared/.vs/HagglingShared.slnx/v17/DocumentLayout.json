@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Felhaszn\u00E1l\u00F3\\Haggling\\HagglingShared\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9EAF64DE-1168-3104-8229-C9C8A3C3EB78}|HagglingShared\\HagglingShared.csproj|c:\\users\\felhaszn\u00E1l\u00F3\\haggling\\hagglingshared\\hagglingshared\\brokerapp\\broker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EAF64DE-1168-3104-8229-C9C8A3C3EB78}|HagglingShared\\HagglingShared.csproj|solutionrelative:hagglingshared\\brokerapp\\broker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EAF64DE-1168-3104-8229-C9C8A3C3EB78}|HagglingShared\\HagglingShared.csproj|c:\\users\\felhaszn\u00E1l\u00F3\\haggling\\hagglingshared\\hagglingshared\\broking\\negotiation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EAF64DE-1168-3104-8229-C9C8A3C3EB78}|HagglingShared\\HagglingShared.csproj|solutionrelative:hagglingshared\\broking\\negotiation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EAF64DE-1168-3104-8229-C9C8A3C3EB78}|HagglingShared\\HagglingShared.csproj|c:\\users\\felhaszn\u00E1l\u00F3\\haggling\\hagglingshared\\hagglingshared\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EAF64DE-1168-3104-8229-C9C8A3C3EB78}|HagglingShared\\HagglingShared.csproj|solutionrelative:hagglingshared\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EAF64DE-1168-3104-8229-C9C8A3C3EB78}|HagglingShared\\HagglingShared.csproj|c:\\users\\felhaszn\u00E1l\u00F3\\haggling\\hagglingshared\\hagglingshared\\models\\haggle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EAF64DE-1168-3104-8229-C9C8A3C3EB78}|HagglingShared\\HagglingShared.csproj|solutionrelative:hagglingshared\\models\\haggle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EAF64DE-1168-3104-8229-C9C8A3C3EB78}|HagglingShared\\HagglingShared.csproj|c:\\users\\felhaszn\u00E1l\u00F3\\haggling\\hagglingshared\\hagglingshared\\interfaces\\interface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EAF64DE-1168-3104-8229-C9C8A3C3EB78}|HagglingShared\\HagglingShared.csproj|solutionrelative:hagglingshared\\interfaces\\interface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\9.0.308\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.TargetFrameworkInference.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Microsoft.NET.TargetFrameworkInference.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\9.0.308\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.TargetFrameworkInference.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.308\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.TargetFrameworkInference.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\9.0.308\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.TargetFrameworkInference.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.308\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.TargetFrameworkInference.targets",
+              "ViewState": "AgIAAJQAAAAAAAAAAAAowKoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2026-05-07T19:45:04.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Negotiation.cs",
+              "DocumentMoniker": "C:\\Users\\Felhaszn\u00E1l\u00F3\\Haggling\\HagglingShared\\HagglingShared\\Broking\\Negotiation.cs",
+              "RelativeDocumentMoniker": "HagglingShared\\Broking\\Negotiation.cs",
+              "ToolTip": "C:\\Users\\Felhaszn\u00E1l\u00F3\\Haggling\\HagglingShared\\HagglingShared\\Broking\\Negotiation.cs",
+              "RelativeToolTip": "HagglingShared\\Broking\\Negotiation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T19:41:08.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Felhaszn\u00E1l\u00F3\\Haggling\\HagglingShared\\HagglingShared\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "HagglingShared\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Felhaszn\u00E1l\u00F3\\Haggling\\HagglingShared\\HagglingShared\\Models\\Product.cs",
+              "RelativeToolTip": "HagglingShared\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T19:40:59.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Haggle.cs",
+              "DocumentMoniker": "C:\\Users\\Felhaszn\u00E1l\u00F3\\Haggling\\HagglingShared\\HagglingShared\\Models\\Haggle.cs",
+              "RelativeDocumentMoniker": "HagglingShared\\Models\\Haggle.cs",
+              "ToolTip": "C:\\Users\\Felhaszn\u00E1l\u00F3\\Haggling\\HagglingShared\\HagglingShared\\Models\\Haggle.cs",
+              "RelativeToolTip": "HagglingShared\\Models\\Haggle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T19:40:57.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Interface.cs",
+              "DocumentMoniker": "C:\\Users\\Felhaszn\u00E1l\u00F3\\Haggling\\HagglingShared\\HagglingShared\\Interfaces\\Interface.cs",
+              "RelativeDocumentMoniker": "HagglingShared\\Interfaces\\Interface.cs",
+              "ToolTip": "C:\\Users\\Felhaszn\u00E1l\u00F3\\Haggling\\HagglingShared\\HagglingShared\\Interfaces\\Interface.cs",
+              "RelativeToolTip": "HagglingShared\\Interfaces\\Interface.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T19:39:05.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Broker.cs",
+              "DocumentMoniker": "C:\\Users\\Felhaszn\u00E1l\u00F3\\Haggling\\HagglingShared\\HagglingShared\\BrokerApp\\Broker.cs",
+              "RelativeDocumentMoniker": "HagglingShared\\BrokerApp\\Broker.cs",
+              "ToolTip": "C:\\Users\\Felhaszn\u00E1l\u00F3\\Haggling\\HagglingShared\\HagglingShared\\BrokerApp\\Broker.cs",
+              "RelativeToolTip": "HagglingShared\\BrokerApp\\Broker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T19:37:44.747Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
