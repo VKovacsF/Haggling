@@ -16,20 +16,21 @@ namespace HagglingShared.Interfaces
         string Name { get; }
 
         /// <summary>
+        /// Gets the customer's interest level for a product.
+        /// </summary>
+        int GetInterestLevel(Product product);
+
+        /// <summary>
         /// Responds to a vendor offer.
         /// </summary>
-        HaggleOffer RespondToOffer(
-            Product product,
-            decimal vendorPrice,
-            int round);
+        HaggleOffer RespondToOffer(Product product, decimal vendorPrice, int round);
 
         /// <summary>
         /// Called after haggling has completed.
         /// </summary>
-        void OnHaggleComplete(
-            Product product,
-            HaggleResult result);
+        void OnHaggleComplete(Product product, HaggleResult result);
     }
+
     /// <summary>
     /// Represents a vendor participating in haggling.
     /// </summary>
@@ -46,7 +47,12 @@ namespace HagglingShared.Interfaces
         List<Product> Inventory { get; }
 
         /// <summary>
-        /// Creates an initial offer.
+        /// Gets the current patience level of the vendor.
+        /// </summary>
+        int Patience { get; }
+
+        /// <summary>
+        /// Creates an offer.
         /// </summary>
         decimal MakeOffer(decimal currentPrice);
 
@@ -55,7 +61,6 @@ namespace HagglingShared.Interfaces
         /// </summary>
         HaggleOffer Respond(HaggleOffer customerOffer);
     }
-
     /// <summary>
     /// Represents the user interface.
     /// </summary>
@@ -67,18 +72,19 @@ namespace HagglingShared.Interfaces
         void ShowStart();
 
         /// <summary>
+        /// Shows information about the product, customer interest and vendor patience.
+        /// </summary>
+        void ShowProductInfo(Product product, int interestLevel, int patience);
+
+        /// <summary>
         /// Shows a vendor offer.
         /// </summary>
-        void ShowOffer(
-            string vendorName,
-            decimal price);
+        void ShowOffer(string vendorName, decimal price);
 
         /// <summary>
         /// Shows a customer counter offer.
         /// </summary>
-        void ShowCounterOffer(
-            string customerName,
-            decimal price);
+        void ShowCounterOffer(string customerName, decimal price);
 
         /// <summary>
         /// Shows that the deal was accepted.

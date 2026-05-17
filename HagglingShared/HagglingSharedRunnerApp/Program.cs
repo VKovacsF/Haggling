@@ -1,7 +1,7 @@
 ﻿using HagglingShared;
 using HagglingShared.Interfaces;
 using HagglingShared.Models;
-using OnlyUI;
+using UI;
 using Customer;
 using System.Reflection;
 
