@@ -1,3 +1,4 @@
 <Solution>
   <Project Path="HagglingShared/HagglingShared.csproj" />
+  <Project Path="HagglingSharedRunnerApp/HagglingSharedRunnerApp.csproj" Id="85d14e88-c8d4-4d14-a004-86ae07fbb39a" />
 </Solution>

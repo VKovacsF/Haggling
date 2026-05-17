@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HagglingShared")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cbe0b48cb6f4cb3836ea0e883be87ef118544530")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aea2dca8d35db2d1ab06dbae49686a4461d6fcd0")]
 [assembly: System.Reflection.AssemblyProductAttribute("HagglingShared")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HagglingShared")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

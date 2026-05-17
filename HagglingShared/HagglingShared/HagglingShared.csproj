@@ -6,4 +6,20 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Spectre.Console" Version="0.55.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="Customer">
+      <HintPath>..\..\..\..\dlls for c# haggling\Customer.dll</HintPath>
+    </Reference>
+    <Reference Include="Haggling">
+      <HintPath>..\..\..\..\dlls for c# haggling\Haggling.dll</HintPath>
+    </Reference>
+    <Reference Include="OnlyUI">
+      <HintPath>..\..\..\..\dlls for c# haggling\OnlyUI.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
 </Project>

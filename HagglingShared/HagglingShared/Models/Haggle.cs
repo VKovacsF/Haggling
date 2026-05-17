@@ -4,15 +4,85 @@ using System.Text;
 
 namespace HagglingShared.Models
 {
-        public record HaggleOffer(decimal Price, bool IsWalkingAway);
+    /// <summary>
+    /// Represents a haggle offer.
+    /// </summary>
+    public class HaggleOffer
+    {
+        /// <summary>
+        /// Gets the offered price.
+        /// </summary>
+        public decimal Price { get; }
 
-        public record HaggleResult(HaggleOutcome Outcome, decimal? FinalPrice, int RoundsPlayed);
+        /// <summary>
+        /// Gets whether the participant walks away.
+        /// </summary>
+        public bool IsWalkingAway { get; }
 
-        public enum HaggleOutcome
+        /// <summary>
+        /// Creates a haggle offer.
+        /// </summary>
+        public HaggleOffer(
+            decimal price,
+            bool isWalkingAway = false)
         {
-            Deal,
-            VendorRefused,
-            CustomerWalkedAway,
-            MaxRoundsReached
+            if (price < 0)
+            {
+                throw new ArgumentOutOfRangeException(nameof(price));
+            }
+
+            Price = price;
+            IsWalkingAway = isWalkingAway;
         }
     }
+
+    /// <summary>
+    /// Represents the result of a negotiation.
+    /// </summary>
+    public class HaggleResult
+    {
+        /// <summary>
+        /// Gets the outcome.
+        /// </summary>
+        public HaggleOutcome Outcome { get; }
+
+        /// <summary>
+        /// Gets the final price.
+        /// </summary>
+        public decimal? FinalPrice { get; }
+
+        /// <summary>
+        /// Gets the number of rounds.
+        /// </summary>
+        public int RoundsPlayed { get; }
+
+        /// <summary>
+        /// Creates a haggle result.
+        /// </summary>
+        public HaggleResult(
+            HaggleOutcome outcome,
+            decimal? finalPrice,
+            int roundsPlayed)
+        {
+            if (roundsPlayed < 0)
+            {
+                throw new ArgumentOutOfRangeException(nameof(roundsPlayed));
+            }
+
+            Outcome = outcome;
+            FinalPrice = finalPrice;
+            RoundsPlayed = roundsPlayed;
+        }
+    }
+
+    /// <summary>
+    /// Represents the result of haggling.
+    /// </summary>
+    public enum HaggleOutcome
+    {
+        Deal,
+        CustomerWalkedAway,
+        VendorRefused,
+        MaxRoundsReached
+    }
+}
