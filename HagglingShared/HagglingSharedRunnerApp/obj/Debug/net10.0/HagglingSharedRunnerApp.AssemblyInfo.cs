@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HagglingSharedRunnerApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d84e8f010c24ff7b45e79dfea6067721812f9e85")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5b5df9de1a49ad09dc8c9a5ccf2dc73b93c86037")]
 [assembly: System.Reflection.AssemblyProductAttribute("HagglingSharedRunnerApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HagglingSharedRunnerApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

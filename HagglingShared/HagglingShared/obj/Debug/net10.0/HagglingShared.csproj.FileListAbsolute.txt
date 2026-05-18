@@ -15,3 +15,25 @@ C:\School lessons\2IHIF\POSE_C#_2IHIF\haggling new\Haggling\HagglingShared\Haggl
 C:\School lessons\2IHIF\POSE_C#_2IHIF\haggling new\Haggling\HagglingShared\HagglingShared\obj\Debug\net10.0\refint\HagglingShared.dll
 C:\School lessons\2IHIF\POSE_C#_2IHIF\haggling new\Haggling\HagglingShared\HagglingShared\obj\Debug\net10.0\HagglingShared.pdb
 C:\School lessons\2IHIF\POSE_C#_2IHIF\haggling new\Haggling\HagglingShared\HagglingShared\obj\Debug\net10.0\ref\HagglingShared.dll
+C:\Users\Felhasználó\Haggling\HagglingShared\HagglingShared\obj\Debug\net10.0\HagglingShared.csproj.AssemblyReference.cache
+C:\Users\Felhasználó\Haggling\HagglingShared\HagglingShared\obj\Debug\net10.0\HagglingShared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felhasználó\Haggling\HagglingShared\HagglingShared\obj\Debug\net10.0\HagglingShared.AssemblyInfoInputs.cache
+C:\Users\Felhasználó\Haggling\HagglingShared\HagglingShared\obj\Debug\net10.0\HagglingShared.AssemblyInfo.cs
+C:\Users\Felhasználó\Haggling\HagglingShared\HagglingShared\obj\Debug\net10.0\HagglingShared.csproj.CoreCompileInputs.cache
+C:\Users\Felhasználó\Haggling\HagglingShared\HagglingShared\obj\Debug\net10.0\HagglingShared.sourcelink.json
+C:\Users\Felhasználó\Haggling\HagglingShared\HagglingShared\obj\Debug\net10.0\HagglingShared.dll
+C:\Users\Felhasználó\Haggling\HagglingShared\HagglingShared\obj\Debug\net10.0\refint\HagglingShared.dll
+C:\Users\Felhasználó\Haggling\HagglingShared\HagglingShared\obj\Debug\net10.0\HagglingShared.pdb
+C:\Users\Felhasználó\Haggling\HagglingShared\HagglingShared\bin\Debug\net10.0\HagglingShared.deps.json
+C:\Users\Felhasználó\Haggling\HagglingShared\HagglingShared\bin\Debug\net10.0\HagglingShared.dll
+C:\Users\Felhasználó\Haggling\HagglingShared\HagglingShared\bin\Debug\net10.0\HagglingShared.pdb
+C:\Users\Felhasználó\Haggling\HagglingShared\HagglingShared\bin\Debug\net10.0\Customer.dll
+C:\Users\Felhasználó\Haggling\HagglingShared\HagglingShared\bin\Debug\net10.0\OnlyUI.dll
+C:\Users\Felhasználó\Haggling\HagglingShared\HagglingShared\bin\Debug\net10.0\Vendor.dll
+C:\Users\Felhasználó\Haggling\HagglingShared\HagglingShared\obj\Debug\net10.0\Haggling.58AE4C1D.Up2Date
+C:\Users\Felhasználó\Haggling\HagglingShared\HagglingShared\obj\Debug\net10.0\ref\HagglingShared.dll
+C:\Users\Felhasználó\Haggling\HagglingShared\HagglingShared\bin\Debug\net10.0\HagglingShared.exe
+C:\Users\Felhasználó\Haggling\HagglingShared\HagglingShared\bin\Debug\net10.0\HagglingShared.runtimeconfig.json
+C:\Users\Felhasználó\Haggling\HagglingShared\HagglingShared\bin\Debug\net10.0\Spectre.Console.dll
+C:\Users\Felhasználó\Haggling\HagglingShared\HagglingShared\bin\Debug\net10.0\Spectre.Console.Ansi.dll
+C:\Users\Felhasználó\Haggling\HagglingShared\HagglingShared\obj\Debug\net10.0\HagglingShared.genruntimeconfig.cache

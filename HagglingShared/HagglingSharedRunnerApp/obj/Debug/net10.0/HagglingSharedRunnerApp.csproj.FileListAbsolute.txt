@@ -22,3 +22,12 @@ C:\School lessons\2IHIF\POSE_C#_2IHIF\haggling new\Haggling\HagglingShared\Haggl
 C:\School lessons\2IHIF\POSE_C#_2IHIF\haggling new\Haggling\HagglingShared\HagglingSharedRunnerApp\obj\Debug\net10.0\HagglingSharedRunnerApp.pdb
 C:\School lessons\2IHIF\POSE_C#_2IHIF\haggling new\Haggling\HagglingShared\HagglingSharedRunnerApp\obj\Debug\net10.0\HagglingSharedRunnerApp.genruntimeconfig.cache
 C:\School lessons\2IHIF\POSE_C#_2IHIF\haggling new\Haggling\HagglingShared\HagglingSharedRunnerApp\obj\Debug\net10.0\ref\HagglingSharedRunnerApp.dll
+C:\Users\Felhasználó\Haggling\HagglingShared\HagglingSharedRunnerApp\obj\Debug\net10.0\HagglingSharedRunnerApp.csproj.AssemblyReference.cache
+C:\Users\Felhasználó\Haggling\HagglingShared\HagglingSharedRunnerApp\obj\Debug\net10.0\HagglingSharedRunnerApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felhasználó\Haggling\HagglingShared\HagglingSharedRunnerApp\obj\Debug\net10.0\HagglingSharedRunnerApp.AssemblyInfoInputs.cache
+C:\Users\Felhasználó\Haggling\HagglingShared\HagglingSharedRunnerApp\obj\Debug\net10.0\HagglingSharedRunnerApp.AssemblyInfo.cs
+C:\Users\Felhasználó\Haggling\HagglingShared\HagglingSharedRunnerApp\obj\Debug\net10.0\HagglingSharedRunnerApp.csproj.CoreCompileInputs.cache
+C:\Users\Felhasználó\Haggling\HagglingShared\HagglingSharedRunnerApp\obj\Debug\net10.0\HagglingSharedRunnerApp.sourcelink.json
+C:\Users\Felhasználó\Haggling\HagglingShared\HagglingSharedRunnerApp\obj\Debug\net10.0\HagglingSharedRunnerApp.dll
+C:\Users\Felhasználó\Haggling\HagglingShared\HagglingSharedRunnerApp\obj\Debug\net10.0\refint\HagglingSharedRunnerApp.dll
+C:\Users\Felhasználó\Haggling\HagglingShared\HagglingSharedRunnerApp\obj\Debug\net10.0\HagglingSharedRunnerApp.pdb

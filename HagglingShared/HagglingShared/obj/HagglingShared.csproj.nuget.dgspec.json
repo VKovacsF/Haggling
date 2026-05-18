@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\School lessons\\2IHIF\\POSE_C#_2IHIF\\haggling new\\Haggling\\HagglingShared\\HagglingShared\\HagglingShared.csproj": {}
+    "C:\\Users\\Felhasználó\\Haggling\\HagglingShared\\HagglingShared\\HagglingShared.csproj": {}
   },
   "projects": {
-    "C:\\School lessons\\2IHIF\\POSE_C#_2IHIF\\haggling new\\Haggling\\HagglingShared\\HagglingShared\\HagglingShared.csproj": {
+    "C:\\Users\\Felhasználó\\Haggling\\HagglingShared\\HagglingShared\\HagglingShared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\School lessons\\2IHIF\\POSE_C#_2IHIF\\haggling new\\Haggling\\HagglingShared\\HagglingShared\\HagglingShared.csproj",
+        "projectUniqueName": "C:\\Users\\Felhasználó\\Haggling\\HagglingShared\\HagglingShared\\HagglingShared.csproj",
         "projectName": "HagglingShared",
-        "projectPath": "C:\\School lessons\\2IHIF\\POSE_C#_2IHIF\\haggling new\\Haggling\\HagglingShared\\HagglingShared\\HagglingShared.csproj",
-        "packagesPath": "C:\\Users\\aproz\\.nuget\\packages\\",
-        "outputPath": "C:\\School lessons\\2IHIF\\POSE_C#_2IHIF\\haggling new\\Haggling\\HagglingShared\\HagglingShared\\obj\\",
+        "projectPath": "C:\\Users\\Felhasználó\\Haggling\\HagglingShared\\HagglingShared\\HagglingShared.csproj",
+        "packagesPath": "C:\\Users\\Felhasználó\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Felhasználó\\Haggling\\HagglingShared\\HagglingShared\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\aproz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Felhasználó\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -73,7 +73,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.300-preview.0.26177.108/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.300/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",

@@ -10,8 +10,8 @@
         "dependencies": {
           "Spectre.Console": "0.55.2",
           "Customer": "1.0.0.0",
-          "Haggling": "1.0.0.0",
-          "OnlyUI": "1.0.0.0"
+          "OnlyUI": "1.0.0.0",
+          "Vendor": "1.0.0.0"
         },
         "runtime": {
           "HagglingShared.dll": {}
@@ -44,17 +44,17 @@
           }
         }
       },
-      "Haggling/1.0.0.0": {
+      "OnlyUI/1.0.0.0": {
         "runtime": {
-          "Haggling.dll": {
+          "OnlyUI.dll": {
             "assemblyVersion": "1.0.0.0",
             "fileVersion": "1.0.0.0"
           }
         }
       },
-      "OnlyUI/1.0.0.0": {
+      "Vendor/1.0.0.0": {
         "runtime": {
-          "OnlyUI.dll": {
+          "Vendor.dll": {
             "assemblyVersion": "1.0.0.0",
             "fileVersion": "1.0.0.0"
           }
@@ -87,12 +87,12 @@
       "serviceable": false,
       "sha512": ""
     },
-    "Haggling/1.0.0.0": {
+    "OnlyUI/1.0.0.0": {
       "type": "reference",
       "serviceable": false,
       "sha512": ""
     },
-    "OnlyUI/1.0.0.0": {
+    "Vendor/1.0.0.0": {
       "type": "reference",
       "serviceable": false,
       "sha512": ""
