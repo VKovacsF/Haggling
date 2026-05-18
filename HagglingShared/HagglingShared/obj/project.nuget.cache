@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nEGRuQPobqY=",
+  "dgSpecHash": "u0D8bb3cFC8=",
   "success": true,
-  "projectFilePath": "C:\\School lessons\\2IHIF\\POSE_C#_2IHIF\\haggling techteam\\Haggling\\HagglingShared\\HagglingShared\\HagglingShared.csproj",
+  "projectFilePath": "C:\\School lessons\\2IHIF\\POSE_C#_2IHIF\\haggling new\\Haggling\\HagglingShared\\HagglingShared\\HagglingShared.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\aproz\\.nuget\\packages\\spectre.console\\0.55.2\\spectre.console.0.55.2.nupkg.sha512",
     "C:\\Users\\aproz\\.nuget\\packages\\spectre.console.ansi\\0.55.2\\spectre.console.ansi.0.55.2.nupkg.sha512"

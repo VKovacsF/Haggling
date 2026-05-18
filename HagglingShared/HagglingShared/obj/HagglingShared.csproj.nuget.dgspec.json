@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\School lessons\\2IHIF\\POSE_C#_2IHIF\\haggling techteam\\Haggling\\HagglingShared\\HagglingShared\\HagglingShared.csproj": {}
+    "C:\\School lessons\\2IHIF\\POSE_C#_2IHIF\\haggling new\\Haggling\\HagglingShared\\HagglingShared\\HagglingShared.csproj": {}
   },
   "projects": {
-    "C:\\School lessons\\2IHIF\\POSE_C#_2IHIF\\haggling techteam\\Haggling\\HagglingShared\\HagglingShared\\HagglingShared.csproj": {
+    "C:\\School lessons\\2IHIF\\POSE_C#_2IHIF\\haggling new\\Haggling\\HagglingShared\\HagglingShared\\HagglingShared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\School lessons\\2IHIF\\POSE_C#_2IHIF\\haggling techteam\\Haggling\\HagglingShared\\HagglingShared\\HagglingShared.csproj",
+        "projectUniqueName": "C:\\School lessons\\2IHIF\\POSE_C#_2IHIF\\haggling new\\Haggling\\HagglingShared\\HagglingShared\\HagglingShared.csproj",
         "projectName": "HagglingShared",
-        "projectPath": "C:\\School lessons\\2IHIF\\POSE_C#_2IHIF\\haggling techteam\\Haggling\\HagglingShared\\HagglingShared\\HagglingShared.csproj",
+        "projectPath": "C:\\School lessons\\2IHIF\\POSE_C#_2IHIF\\haggling new\\Haggling\\HagglingShared\\HagglingShared\\HagglingShared.csproj",
         "packagesPath": "C:\\Users\\aproz\\.nuget\\packages\\",
-        "outputPath": "C:\\School lessons\\2IHIF\\POSE_C#_2IHIF\\haggling techteam\\Haggling\\HagglingShared\\HagglingShared\\obj\\",
+        "outputPath": "C:\\School lessons\\2IHIF\\POSE_C#_2IHIF\\haggling new\\Haggling\\HagglingShared\\HagglingShared\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

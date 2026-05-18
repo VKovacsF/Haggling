@@ -1,12 +1,37 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\School lessons\\2IHIF\\POSE_C#_2IHIF\\haggling techteam\\Haggling\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\School lessons\\2IHIF\\POSE_C#_2IHIF\\haggling new\\Haggling\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\School lessons\\2IHIF\\POSE_C#_2IHIF\\haggling new\\Haggling\\HagglingShared\\HagglingShared\\HagglingShared.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HagglingShared\\HagglingShared\\HagglingShared.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HagglingShared.csproj",
+              "DocumentMoniker": "C:\\School lessons\\2IHIF\\POSE_C#_2IHIF\\haggling new\\Haggling\\HagglingShared\\HagglingShared\\HagglingShared.csproj",
+              "RelativeDocumentMoniker": "HagglingShared\\HagglingShared\\HagglingShared.csproj",
+              "ToolTip": "C:\\School lessons\\2IHIF\\POSE_C#_2IHIF\\haggling new\\Haggling\\HagglingShared\\HagglingShared\\HagglingShared.csproj",
+              "RelativeToolTip": "HagglingShared\\HagglingShared\\HagglingShared.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-18T18:04:19.602Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

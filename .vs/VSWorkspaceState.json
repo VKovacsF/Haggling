@@ -1,6 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\HagglingShared",
+    "\\HagglingShared\\HagglingShared",
+    "\\HagglingShared\\HagglingShared\\BrokerApp"
   ],
+  "SelectedNode": "\\HagglingShared\\HagglingShared\\HagglingShared.csproj",
   "PreviewInSolutionExplorer": false
 }

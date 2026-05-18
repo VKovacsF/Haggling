@@ -15,7 +15,7 @@ namespace HagglingShared.Models
         public decimal Price { get; }
 
         /// <summary>
-        /// Gets how the participant is doing.
+        /// Gets the current outcome of this offer.
         /// </summary>
         public HaggleOutcome Outcome { get; }
 
@@ -24,7 +24,7 @@ namespace HagglingShared.Models
         /// </summary>
         public HaggleOffer(
             decimal price,
-            bool isWalkingAway = false)
+            HaggleOutcome outcome = HaggleOutcome.Ongoing)
         {
             if (price < 0)
             {
@@ -32,7 +32,7 @@ namespace HagglingShared.Models
             }
 
             Price = price;
-            IsWalkingAway = isWalkingAway;
+            Outcome = outcome;
         }
     }
 
@@ -80,10 +80,10 @@ namespace HagglingShared.Models
     /// </summary>
     public enum HaggleOutcome
     {
+        Ongoing,
         Deal,
         CustomerWalkedAway,
         VendorRefused,
-        MaxRoundsReached,
-        Ongoing
+        MaxRoundsReached
     }
 }

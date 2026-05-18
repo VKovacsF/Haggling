@@ -20,7 +20,11 @@ public class Broker
     /// <summary>
     /// Creates a broker.
     /// </summary>
-    public Broker(IUI ui, ICustomer customer, IVendor vendor, int maxRounds = 10)
+    public Broker(
+        IUI ui,
+        ICustomer customer,
+        IVendor vendor,
+        int maxRounds = 10)
     {
         this.ui = ui ?? throw new ArgumentNullException(nameof(ui));
         this.customer = customer ?? throw new ArgumentNullException(nameof(customer));
@@ -86,7 +90,8 @@ public class Broker
                     "Customer returned a negative price.");
             }
 
-            if (customerOffer.IsWalkingAway)
+            if (customerOffer.Outcome ==
+                HaggleOutcome.CustomerWalkedAway)
             {
                 ui.ShowRejected();
 
@@ -101,7 +106,8 @@ public class Broker
             ui.ShowCounterOffer(customer.Name, customerOffer.Price);
             Thread.Sleep(1000);
 
-            HaggleOffer vendorResponse = vendor.Respond(customerOffer);
+            HaggleOffer vendorResponse =
+                vendor.Respond(customerOffer);
 
             if (vendorResponse.Price < 0)
             {
@@ -109,8 +115,7 @@ public class Broker
                     "Vendor returned a negative counter price.");
             }
 
-            if (!vendorResponse.IsWalkingAway &&
-                vendorResponse.Price <= customerOffer.Price)
+            if (vendorResponse.Outcome == HaggleOutcome.Deal)
             {
                 ui.ShowAccepted();
 
@@ -122,7 +127,8 @@ public class Broker
                         round));
             }
 
-            if (vendorResponse.IsWalkingAway)
+            if (vendorResponse.Outcome ==
+                HaggleOutcome.VendorRefused)
             {
                 ui.ShowRejected();
 
@@ -146,7 +152,9 @@ public class Broker
                 round));
     }
 
-    private HaggleResult Finish(Product product, HaggleResult result)
+    private HaggleResult Finish(
+        Product product,
+        HaggleResult result)
     {
         customer.OnHaggleComplete(product, result);
 
