@@ -18,7 +18,7 @@ namespace HagglingShared.Interfaces
         /// <summary>
         /// Gets the customer's interest level for a product.
         /// </summary>
-        int GetInterestLevel(Product product);
+        double GetInterestLevel(Product product);
 
         /// <summary>
         /// Responds to a vendor offer.

@@ -15,9 +15,9 @@ namespace HagglingShared.Models
         public decimal Price { get; }
 
         /// <summary>
-        /// Gets whether the participant walks away.
+        /// Gets how the participant is doing.
         /// </summary>
-        public bool IsWalkingAway { get; }
+        public HaggleOutcome Outcome { get; }
 
         /// <summary>
         /// Creates a haggle offer.
@@ -83,6 +83,7 @@ namespace HagglingShared.Models
         Deal,
         CustomerWalkedAway,
         VendorRefused,
-        MaxRoundsReached
+        MaxRoundsReached,
+        Ongoing
     }
 }
